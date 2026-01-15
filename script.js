@@ -1,5 +1,5 @@
 // 设置开始日期（格式：YYYY-MM-DD HH:mm:ss）
-const startDate = new Date("2025-06-18 00:00:00");
+const startDate = new Date("2025-01-09 02:00:00");
 
 function updateTimer() {
   const now = new Date();
